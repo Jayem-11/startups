@@ -1,5 +1,5 @@
- pickle-mixin
-numpy==1.22.0
+pickle-mixin
+numpy
 pandas
 scikit-learn
 streamlit
