@@ -2,5 +2,5 @@ pickle-mixin
 numpy
 pandas
 lightgbm
-scikit-learn==1.2.2
+scikit-learn
 streamlit
